@@ -1,3 +1,5 @@
+./tree-md.sh
+
 git add -A
 if [[ $1 == "" ]]
 then
