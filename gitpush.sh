@@ -1,5 +1,3 @@
-hexo clean
-hexo g
 git add -A
 if [[ $1 == "" ]]
 then
