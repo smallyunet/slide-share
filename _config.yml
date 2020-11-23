@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: The title of your site
-description: A short description of your site's purpose
-logo: Location of the logo
+title: slide-share
+description: 幻灯片分享
+logo: favicon.png
 show_downloads: true
