@@ -9,6 +9,7 @@
  * <a href="./01.应对多种页面类型的爬虫.pdf">01.应对多种页面类型的爬虫.pdf</a>
  * <a href="./tree-md.sh">tree-md.sh</a>
  * <a href="./gitpush.sh">gitpush.sh</a>
- * <a href="./README.md">README.md</a>
  * <a href="./04.UMID去中心化身份认证平台预研.pptx">04.UMID去中心化身份认证平台预研.pptx</a>
  * <a href="./04.UMID去中心化身份认证平台预研.pdf">04.UMID去中心化身份认证平台预研.pdf</a>
+ * <a href="./README.md">README.md</a>
+ * <a href="./_config.yml">_config.yml</a>
